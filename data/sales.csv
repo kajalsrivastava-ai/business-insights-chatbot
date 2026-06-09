@@ -1,0 +1,501 @@
+order_id,date,product,category,region,sales_rep,quantity,unit_price,revenue
+ORD-1000,2024-02-22,Wireless Mouse,Electronics,North,Rahul Singh,8,1133.57,9068.56
+ORD-1001,2024-02-17,Desk Lamp,Office Supplies,North,Vikram Rao,14,1631.44,22840.18
+ORD-1002,2024-04-11,Office Chair,Furniture,South,Vikram Rao,20,13579.61,271592.16
+ORD-1003,2024-01-04,Desk Lamp,Office Supplies,West,Priya Patel,15,1832.14,27482.03
+ORD-1004,2024-06-21,Standing Desk,Furniture,West,Rahul Singh,9,20484.11,184356.99
+ORD-1005,2024-06-25,Wireless Mouse,Electronics,North,Neha Gupta,4,1166.16,4664.62
+ORD-1006,2024-07-12,Keyboard Mech,Electronics,East,Amit Sharma,15,6547.1,98206.45
+ORD-1007,2024-07-04,Wireless Mouse,Electronics,Central,Rahul Singh,20,1292.51,25850.17
+ORD-1008,2024-05-28,Keyboard Mech,Electronics,South,Amit Sharma,2,6709.64,13419.28
+ORD-1009,2024-11-21,Wireless Mouse,Electronics,South,Amit Sharma,13,1146.71,14907.28
+ORD-1010,2024-05-16,Notebook Pack,Stationery,South,Rahul Singh,12,423.86,5086.27
+ORD-1011,2024-03-24,Wireless Mouse,Electronics,Central,Priya Patel,18,1254.99,22589.83
+ORD-1012,2024-06-15,Webcam HD,Electronics,West,Rahul Singh,18,4247.65,76457.77
+ORD-1013,2024-02-03,Laptop Pro 15,Electronics,South,Amit Sharma,11,83319.8,916517.82
+ORD-1014,2024-07-21,Office Chair,Furniture,Central,Rahul Singh,7,15466.32,108264.21
+ORD-1015,2024-10-14,Webcam HD,Electronics,South,Rahul Singh,5,4271.96,21359.82
+ORD-1016,2024-07-23,Desk Lamp,Office Supplies,East,Vikram Rao,14,1943.22,27205.03
+ORD-1017,2024-01-25,Notebook Pack,Stationery,South,Priya Patel,17,449.42,7640.08
+ORD-1018,2024-07-16,Wireless Mouse,Electronics,South,Priya Patel,14,1223.14,17123.93
+ORD-1019,2024-10-10,Whiteboard,Office Supplies,Central,Neha Gupta,17,3325.99,56541.83
+ORD-1020,2024-06-23,Laptop Pro 15,Electronics,North,Vikram Rao,9,89566.18,806095.61
+ORD-1021,2024-05-14,Wireless Mouse,Electronics,East,Neha Gupta,6,1188.89,7133.36
+ORD-1022,2024-06-01,Desk Lamp,Office Supplies,South,Vikram Rao,4,1933.39,7733.55
+ORD-1023,2024-03-23,Desk Lamp,Office Supplies,Central,Priya Patel,5,1754.61,8773.04
+ORD-1024,2024-01-10,Desk Lamp,Office Supplies,Central,Amit Sharma,20,1736.7,34733.92
+ORD-1025,2024-10-17,Wireless Mouse,Electronics,East,Rahul Singh,8,1093.9,8751.22
+ORD-1026,2024-09-29,Wireless Mouse,Electronics,North,Neha Gupta,3,1314.72,3944.15
+ORD-1027,2024-09-27,Standing Desk,Furniture,South,Neha Gupta,18,20526.56,369478.06
+ORD-1028,2024-12-19,Keyboard Mech,Electronics,West,Priya Patel,18,6831.84,122973.21
+ORD-1029,2024-09-21,Office Chair,Furniture,East,Neha Gupta,12,14814.3,177771.6
+ORD-1030,2024-01-11,Webcam HD,Electronics,North,Priya Patel,8,4107.62,32860.99
+ORD-1031,2024-02-06,Keyboard Mech,Electronics,Central,Priya Patel,19,6136.28,116589.37
+ORD-1032,2024-02-06,Laptop Pro 15,Electronics,South,Amit Sharma,2,91113.8,182227.6
+ORD-1033,2024-03-08,Desk Lamp,Office Supplies,South,Rahul Singh,16,1697.13,27154.0
+ORD-1034,2024-07-27,Keyboard Mech,Electronics,Central,Neha Gupta,8,6870.01,54960.04
+ORD-1035,2024-07-29,Office Chair,Furniture,North,Amit Sharma,14,14562.89,203880.5
+ORD-1036,2024-06-22,Webcam HD,Electronics,North,Amit Sharma,2,4412.36,8824.72
+ORD-1037,2024-03-12,Wireless Mouse,Electronics,South,Priya Patel,7,1208.71,8460.96
+ORD-1038,2024-02-08,Whiteboard,Office Supplies,South,Rahul Singh,15,3324.86,49872.97
+ORD-1039,2024-10-03,Webcam HD,Electronics,Central,Amit Sharma,2,4636.93,9273.86
+ORD-1040,2024-09-03,Laptop Pro 15,Electronics,North,Priya Patel,6,83409.04,500454.23
+ORD-1041,2024-07-18,Office Chair,Furniture,West,Amit Sharma,6,14636.92,87821.52
+ORD-1042,2024-10-11,Monitor 27in,Electronics,West,Rahul Singh,14,29100.91,407412.77
+ORD-1043,2024-01-30,Webcam HD,Electronics,South,Priya Patel,10,4245.93,42459.31
+ORD-1044,2024-10-26,Keyboard Mech,Electronics,Central,Amit Sharma,11,5924.31,65167.46
+ORD-1045,2024-09-17,Webcam HD,Electronics,Central,Vikram Rao,6,4101.19,24607.15
+ORD-1046,2024-04-30,Wireless Mouse,Electronics,South,Amit Sharma,20,1096.31,21926.21
+ORD-1047,2024-01-21,Whiteboard,Office Supplies,North,Vikram Rao,8,3555.24,28441.95
+ORD-1048,2024-06-10,Keyboard Mech,Electronics,North,Neha Gupta,19,6584.8,125111.11
+ORD-1049,2024-03-08,Monitor 27in,Electronics,South,Rahul Singh,8,26687.44,213499.53
+ORD-1050,2024-11-14,Monitor 27in,Electronics,West,Rahul Singh,3,25252.17,75756.5
+ORD-1051,2024-05-15,Keyboard Mech,Electronics,North,Amit Sharma,18,6127.1,110287.81
+ORD-1052,2024-03-21,Standing Desk,Furniture,East,Amit Sharma,8,21425.92,171407.35
+ORD-1053,2024-11-30,Webcam HD,Electronics,Central,Rahul Singh,20,4935.47,98709.36
+ORD-1054,2024-02-23,Desk Lamp,Office Supplies,North,Vikram Rao,10,1955.43,19554.32
+ORD-1055,2024-03-20,Standing Desk,Furniture,East,Amit Sharma,4,23066.63,92266.53
+ORD-1056,2024-04-14,Monitor 27in,Electronics,East,Vikram Rao,7,29218.63,204530.4
+ORD-1057,2024-01-27,Monitor 27in,Electronics,Central,Neha Gupta,9,30269.88,272428.96
+ORD-1058,2024-03-07,Wireless Mouse,Electronics,West,Rahul Singh,2,1080.85,2161.7
+ORD-1059,2024-10-14,Monitor 27in,Electronics,South,Neha Gupta,18,29151.74,524731.28
+ORD-1060,2024-07-08,Laptop Pro 15,Electronics,North,Amit Sharma,5,85775.03,428875.17
+ORD-1061,2024-06-06,Keyboard Mech,Electronics,Central,Priya Patel,14,6015.68,84219.51
+ORD-1062,2024-12-07,Notebook Pack,Stationery,North,Rahul Singh,7,466.39,3264.7
+ORD-1063,2024-03-20,Wireless Mouse,Electronics,East,Vikram Rao,14,1313.72,18392.09
+ORD-1064,2024-06-19,Office Chair,Furniture,South,Priya Patel,14,13574.36,190041.03
+ORD-1065,2024-02-25,Whiteboard,Office Supplies,South,Rahul Singh,6,3701.16,22206.97
+ORD-1066,2024-08-23,Whiteboard,Office Supplies,North,Neha Gupta,8,3289.7,26317.61
+ORD-1067,2024-04-08,Notebook Pack,Stationery,East,Priya Patel,8,407.13,3257.04
+ORD-1068,2024-05-22,Whiteboard,Office Supplies,East,Rahul Singh,3,3826.82,11480.47
+ORD-1069,2024-01-15,Notebook Pack,Stationery,Central,Neha Gupta,18,434.8,7826.46
+ORD-1070,2024-05-15,Wireless Mouse,Electronics,East,Priya Patel,19,1311.01,24909.16
+ORD-1071,2024-06-09,Laptop Pro 15,Electronics,North,Vikram Rao,14,82376.68,1153273.53
+ORD-1072,2024-10-22,Whiteboard,Office Supplies,Central,Vikram Rao,4,3419.64,13678.55
+ORD-1073,2024-10-02,Office Chair,Furniture,East,Amit Sharma,14,13505.07,189071.03
+ORD-1074,2024-06-18,Office Chair,Furniture,East,Neha Gupta,3,16346.62,49039.87
+ORD-1075,2024-12-07,Keyboard Mech,Electronics,East,Amit Sharma,10,6509.26,65092.59
+ORD-1076,2024-04-08,Whiteboard,Office Supplies,East,Neha Gupta,10,3538.09,35380.89
+ORD-1077,2024-07-26,Whiteboard,Office Supplies,West,Priya Patel,20,3548.37,70967.47
+ORD-1078,2024-10-23,Desk Lamp,Office Supplies,North,Rahul Singh,10,1695.67,16956.66
+ORD-1079,2024-04-19,Keyboard Mech,Electronics,East,Neha Gupta,15,6424.81,96372.12
+ORD-1080,2024-12-05,Desk Lamp,Office Supplies,West,Priya Patel,3,1722.16,5166.49
+ORD-1081,2024-04-25,Keyboard Mech,Electronics,East,Amit Sharma,8,6724.63,53797.07
+ORD-1082,2024-08-31,Office Chair,Furniture,South,Amit Sharma,2,14234.53,28469.06
+ORD-1083,2024-10-21,Keyboard Mech,Electronics,North,Neha Gupta,14,7001.98,98027.69
+ORD-1084,2024-12-01,Office Chair,Furniture,West,Neha Gupta,13,14231.95,185015.39
+ORD-1085,2024-12-22,Laptop Pro 15,Electronics,North,Neha Gupta,8,79490.07,635920.59
+ORD-1086,2024-03-03,Desk Lamp,Office Supplies,West,Amit Sharma,18,1709.71,30774.8
+ORD-1087,2024-10-31,Webcam HD,Electronics,South,Neha Gupta,17,4939.1,83964.75
+ORD-1088,2024-10-07,Notebook Pack,Stationery,West,Vikram Rao,17,443.41,7537.91
+ORD-1089,2024-05-06,Webcam HD,Electronics,South,Neha Gupta,15,4283.27,64249.09
+ORD-1090,2024-02-09,Monitor 27in,Electronics,Central,Neha Gupta,8,26737.75,213901.97
+ORD-1091,2024-10-03,Monitor 27in,Electronics,South,Rahul Singh,11,26990.37,296894.11
+ORD-1092,2024-03-19,Wireless Mouse,Electronics,South,Priya Patel,8,1171.93,9375.43
+ORD-1093,2024-08-26,Office Chair,Furniture,North,Neha Gupta,14,14492.64,202897.02
+ORD-1094,2024-10-26,Whiteboard,Office Supplies,North,Priya Patel,14,3422.63,47916.87
+ORD-1095,2024-06-29,Laptop Pro 15,Electronics,Central,Neha Gupta,16,76600.23,1225603.73
+ORD-1096,2024-10-06,Monitor 27in,Electronics,West,Neha Gupta,18,29386.09,528949.58
+ORD-1097,2024-09-05,Keyboard Mech,Electronics,South,Neha Gupta,8,6204.82,49638.53
+ORD-1098,2024-08-27,Laptop Pro 15,Electronics,West,Rahul Singh,13,88811.08,1154544.08
+ORD-1099,2024-10-30,Standing Desk,Furniture,Central,Vikram Rao,1,23790.49,23790.49
+ORD-1100,2024-08-24,Keyboard Mech,Electronics,North,Amit Sharma,14,6026.41,84369.73
+ORD-1101,2024-08-20,Standing Desk,Furniture,North,Rahul Singh,13,21240.35,276124.57
+ORD-1102,2024-08-03,Notebook Pack,Stationery,East,Neha Gupta,9,472.68,4254.13
+ORD-1103,2024-01-27,Monitor 27in,Electronics,North,Neha Gupta,1,29394.54,29394.54
+ORD-1104,2024-05-06,Notebook Pack,Stationery,South,Amit Sharma,2,472.88,945.76
+ORD-1105,2024-08-30,Office Chair,Furniture,North,Vikram Rao,5,14215.63,71078.17
+ORD-1106,2024-07-07,Wireless Mouse,Electronics,Central,Priya Patel,15,1247.87,18718.07
+ORD-1107,2024-03-24,Standing Desk,Furniture,Central,Vikram Rao,4,23222.28,92889.14
+ORD-1108,2024-10-21,Monitor 27in,Electronics,North,Vikram Rao,1,30401.77,30401.77
+ORD-1109,2024-11-17,Whiteboard,Office Supplies,West,Priya Patel,3,3564.47,10693.41
+ORD-1110,2024-10-16,Office Chair,Furniture,North,Rahul Singh,20,15916.58,318331.68
+ORD-1111,2024-02-05,Laptop Pro 15,Electronics,East,Vikram Rao,14,87745.86,1228442.08
+ORD-1112,2024-02-24,Desk Lamp,Office Supplies,East,Amit Sharma,14,1916.04,26824.55
+ORD-1113,2024-09-24,Whiteboard,Office Supplies,East,Neha Gupta,5,3454.84,17274.21
+ORD-1114,2024-10-30,Monitor 27in,Electronics,Central,Vikram Rao,16,27803.29,444852.69
+ORD-1115,2024-08-18,Monitor 27in,Electronics,East,Priya Patel,3,26762.0,80285.99
+ORD-1116,2024-06-21,Office Chair,Furniture,West,Vikram Rao,20,15504.57,310091.31
+ORD-1117,2024-06-30,Laptop Pro 15,Electronics,West,Rahul Singh,6,84788.35,508730.09
+ORD-1118,2024-05-21,Monitor 27in,Electronics,East,Rahul Singh,20,29126.63,582532.58
+ORD-1119,2024-07-27,Desk Lamp,Office Supplies,North,Vikram Rao,7,1650.82,11555.74
+ORD-1120,2024-09-08,Webcam HD,Electronics,Central,Priya Patel,16,4631.31,74101.0
+ORD-1121,2024-12-20,Webcam HD,Electronics,North,Amit Sharma,10,4249.44,42494.37
+ORD-1122,2024-09-28,Office Chair,Furniture,East,Vikram Rao,12,14919.78,179037.38
+ORD-1123,2024-08-20,Notebook Pack,Stationery,West,Vikram Rao,11,436.66,4803.29
+ORD-1124,2024-04-08,Monitor 27in,Electronics,East,Rahul Singh,8,25875.67,207005.38
+ORD-1125,2024-09-04,Notebook Pack,Stationery,North,Vikram Rao,6,422.24,2533.43
+ORD-1126,2024-02-21,Monitor 27in,Electronics,Central,Vikram Rao,20,26784.79,535695.85
+ORD-1127,2024-01-08,Office Chair,Furniture,East,Priya Patel,12,14038.32,168459.9
+ORD-1128,2024-10-10,Desk Lamp,Office Supplies,South,Rahul Singh,2,1970.75,3941.49
+ORD-1129,2024-10-20,Monitor 27in,Electronics,South,Neha Gupta,4,30087.23,120348.92
+ORD-1130,2024-01-27,Monitor 27in,Electronics,West,Neha Gupta,15,27107.95,406619.3
+ORD-1131,2024-02-07,Monitor 27in,Electronics,West,Amit Sharma,3,27443.96,82331.89
+ORD-1132,2024-06-04,Keyboard Mech,Electronics,North,Priya Patel,5,6904.48,34522.42
+ORD-1133,2024-11-06,Wireless Mouse,Electronics,South,Amit Sharma,18,1263.47,22742.4
+ORD-1134,2024-08-14,Keyboard Mech,Electronics,Central,Priya Patel,17,6344.49,107856.35
+ORD-1135,2024-01-31,Monitor 27in,Electronics,Central,Neha Gupta,10,28384.33,283843.25
+ORD-1136,2024-02-11,Keyboard Mech,Electronics,North,Priya Patel,7,6194.04,43358.28
+ORD-1137,2024-01-02,Standing Desk,Furniture,South,Priya Patel,18,20130.29,362345.14
+ORD-1138,2024-04-28,Whiteboard,Office Supplies,West,Vikram Rao,16,3353.88,53662.1
+ORD-1139,2024-05-15,Monitor 27in,Electronics,East,Neha Gupta,3,29049.36,87148.07
+ORD-1140,2024-11-27,Keyboard Mech,Electronics,South,Neha Gupta,4,6557.93,26231.72
+ORD-1141,2024-06-06,Standing Desk,Furniture,East,Priya Patel,3,20062.41,60187.22
+ORD-1142,2024-12-18,Keyboard Mech,Electronics,Central,Rahul Singh,15,6011.66,90174.9
+ORD-1143,2024-08-12,Monitor 27in,Electronics,West,Rahul Singh,17,28223.9,479806.24
+ORD-1144,2024-11-05,Wireless Mouse,Electronics,Central,Amit Sharma,14,1256.29,17588.03
+ORD-1145,2024-10-21,Monitor 27in,Electronics,North,Amit Sharma,8,30586.7,244693.62
+ORD-1146,2024-03-30,Keyboard Mech,Electronics,North,Rahul Singh,19,5902.3,112143.72
+ORD-1147,2024-10-26,Webcam HD,Electronics,Central,Neha Gupta,9,4213.34,37920.06
+ORD-1148,2024-06-19,Whiteboard,Office Supplies,West,Amit Sharma,16,3393.57,54297.16
+ORD-1149,2024-09-10,Notebook Pack,Stationery,North,Priya Patel,11,442.05,4862.53
+ORD-1150,2024-06-10,Monitor 27in,Electronics,West,Vikram Rao,2,27747.03,55494.05
+ORD-1151,2024-01-01,Monitor 27in,Electronics,East,Amit Sharma,13,30043.5,390565.49
+ORD-1152,2024-07-04,Desk Lamp,Office Supplies,West,Neha Gupta,2,1687.53,3375.06
+ORD-1153,2024-10-08,Keyboard Mech,Electronics,West,Neha Gupta,2,6114.63,12229.25
+ORD-1154,2024-11-18,Standing Desk,Furniture,East,Neha Gupta,16,20334.27,325348.4
+ORD-1155,2024-10-09,Keyboard Mech,Electronics,South,Priya Patel,10,6566.09,65660.91
+ORD-1156,2024-03-01,Whiteboard,Office Supplies,North,Priya Patel,4,3473.01,13892.05
+ORD-1157,2024-07-31,Standing Desk,Furniture,West,Rahul Singh,17,22903.81,389364.79
+ORD-1158,2024-07-15,Webcam HD,Electronics,West,Priya Patel,15,4546.14,68192.08
+ORD-1159,2024-05-21,Office Chair,Furniture,Central,Vikram Rao,5,16092.08,80460.4
+ORD-1160,2024-05-24,Whiteboard,Office Supplies,East,Vikram Rao,9,3724.38,33519.46
+ORD-1161,2024-08-16,Monitor 27in,Electronics,Central,Vikram Rao,16,30045.46,480727.35
+ORD-1162,2024-10-05,Desk Lamp,Office Supplies,West,Rahul Singh,11,1818.69,20005.59
+ORD-1163,2024-05-02,Whiteboard,Office Supplies,West,Rahul Singh,7,3836.54,26855.8
+ORD-1164,2024-08-30,Keyboard Mech,Electronics,West,Priya Patel,14,5906.74,82694.38
+ORD-1165,2024-03-05,Whiteboard,Office Supplies,West,Priya Patel,16,3825.38,61206.03
+ORD-1166,2024-08-13,Desk Lamp,Office Supplies,Central,Rahul Singh,4,1934.71,7738.83
+ORD-1167,2024-07-28,Wireless Mouse,Electronics,Central,Neha Gupta,1,1253.39,1253.39
+ORD-1168,2024-12-20,Standing Desk,Furniture,North,Neha Gupta,9,21289.67,191607.02
+ORD-1169,2024-06-11,Whiteboard,Office Supplies,North,Rahul Singh,18,3416.01,61488.12
+ORD-1170,2024-11-19,Webcam HD,Electronics,Central,Amit Sharma,20,4111.58,82231.57
+ORD-1171,2024-11-20,Monitor 27in,Electronics,South,Amit Sharma,14,30678.69,429501.68
+ORD-1172,2024-01-24,Wireless Mouse,Electronics,West,Priya Patel,10,1296.82,12968.22
+ORD-1173,2024-03-15,Notebook Pack,Stationery,North,Rahul Singh,12,438.74,5264.83
+ORD-1174,2024-04-02,Office Chair,Furniture,Central,Neha Gupta,19,15545.4,295362.62
+ORD-1175,2024-11-13,Standing Desk,Furniture,South,Amit Sharma,20,23631.69,472633.88
+ORD-1176,2024-11-22,Office Chair,Furniture,West,Vikram Rao,5,14196.57,70982.83
+ORD-1177,2024-08-26,Monitor 27in,Electronics,West,Rahul Singh,1,30233.89,30233.89
+ORD-1178,2024-06-25,Monitor 27in,Electronics,Central,Priya Patel,3,27673.69,83021.06
+ORD-1179,2024-06-03,Keyboard Mech,Electronics,East,Neha Gupta,9,6443.89,57994.98
+ORD-1180,2024-10-19,Office Chair,Furniture,West,Neha Gupta,4,14211.62,56846.47
+ORD-1181,2024-12-03,Notebook Pack,Stationery,Central,Rahul Singh,10,406.97,4069.75
+ORD-1182,2024-01-26,Whiteboard,Office Supplies,East,Amit Sharma,19,3755.55,71355.4
+ORD-1183,2024-06-29,Keyboard Mech,Electronics,West,Rahul Singh,8,6639.18,53113.48
+ORD-1184,2024-12-03,Office Chair,Furniture,South,Vikram Rao,9,15533.29,139799.64
+ORD-1185,2024-01-18,Standing Desk,Furniture,North,Amit Sharma,10,23269.89,232698.86
+ORD-1186,2024-06-16,Keyboard Mech,Electronics,East,Priya Patel,3,7032.52,21097.55
+ORD-1187,2024-07-06,Whiteboard,Office Supplies,South,Priya Patel,5,3700.56,18502.79
+ORD-1188,2024-09-03,Desk Lamp,Office Supplies,Central,Rahul Singh,6,1712.51,10275.06
+ORD-1189,2024-03-13,Monitor 27in,Electronics,East,Amit Sharma,15,30592.2,458883.04
+ORD-1190,2024-07-21,Office Chair,Furniture,West,Vikram Rao,12,13770.91,165250.9
+ORD-1191,2024-12-10,Laptop Pro 15,Electronics,East,Vikram Rao,4,84231.36,336925.45
+ORD-1192,2024-04-29,Monitor 27in,Electronics,Central,Neha Gupta,12,25806.74,309680.86
+ORD-1193,2024-11-08,Webcam HD,Electronics,North,Vikram Rao,18,4345.21,78213.7
+ORD-1194,2024-02-29,Office Chair,Furniture,North,Neha Gupta,10,15447.72,154477.18
+ORD-1195,2024-02-29,Standing Desk,Furniture,North,Amit Sharma,10,24182.08,241820.8
+ORD-1196,2024-07-08,Wireless Mouse,Electronics,South,Vikram Rao,5,1173.27,5866.37
+ORD-1197,2024-12-01,Desk Lamp,Office Supplies,West,Vikram Rao,5,1938.75,9693.74
+ORD-1198,2024-05-23,Wireless Mouse,Electronics,West,Vikram Rao,14,1305.37,18275.22
+ORD-1199,2024-04-30,Laptop Pro 15,Electronics,East,Priya Patel,15,84059.83,1260897.44
+ORD-1200,2024-11-26,Notebook Pack,Stationery,North,Rahul Singh,18,486.15,8750.75
+ORD-1201,2024-03-03,Notebook Pack,Stationery,North,Neha Gupta,9,422.08,3798.74
+ORD-1202,2024-01-26,Webcam HD,Electronics,North,Priya Patel,20,4923.98,98479.68
+ORD-1203,2024-10-10,Notebook Pack,Stationery,South,Priya Patel,19,423.47,8045.9
+ORD-1204,2024-03-16,Office Chair,Furniture,Central,Priya Patel,8,14485.68,115885.43
+ORD-1205,2024-10-03,Keyboard Mech,Electronics,North,Rahul Singh,5,7133.79,35668.93
+ORD-1206,2024-07-02,Monitor 27in,Electronics,South,Amit Sharma,1,25938.1,25938.1
+ORD-1207,2024-01-27,Office Chair,Furniture,Central,Rahul Singh,1,14022.74,14022.74
+ORD-1208,2024-08-31,Standing Desk,Furniture,West,Vikram Rao,4,23080.93,92323.71
+ORD-1209,2024-09-14,Webcam HD,Electronics,East,Vikram Rao,19,4148.15,78814.82
+ORD-1210,2024-11-25,Office Chair,Furniture,Central,Amit Sharma,17,14404.89,244883.15
+ORD-1211,2024-02-25,Laptop Pro 15,Electronics,North,Neha Gupta,13,83746.65,1088706.47
+ORD-1212,2024-03-16,Webcam HD,Electronics,West,Amit Sharma,3,4339.9,13019.7
+ORD-1213,2024-10-07,Wireless Mouse,Electronics,South,Rahul Singh,20,1231.94,24638.77
+ORD-1214,2024-09-15,Notebook Pack,Stationery,West,Vikram Rao,17,431.54,7336.19
+ORD-1215,2024-11-29,Keyboard Mech,Electronics,West,Amit Sharma,4,6958.63,27834.52
+ORD-1216,2024-07-30,Desk Lamp,Office Supplies,South,Neha Gupta,15,1939.71,29095.69
+ORD-1217,2024-06-09,Notebook Pack,Stationery,West,Neha Gupta,14,470.67,6589.31
+ORD-1218,2024-12-17,Whiteboard,Office Supplies,East,Rahul Singh,12,3817.51,45810.18
+ORD-1219,2024-02-19,Webcam HD,Electronics,North,Amit Sharma,3,4133.91,12401.72
+ORD-1220,2024-10-14,Notebook Pack,Stationery,South,Vikram Rao,2,457.78,915.56
+ORD-1221,2024-12-06,Desk Lamp,Office Supplies,East,Amit Sharma,14,1747.3,24462.13
+ORD-1222,2024-02-23,Whiteboard,Office Supplies,North,Rahul Singh,20,3368.71,67374.28
+ORD-1223,2024-04-24,Keyboard Mech,Electronics,Central,Priya Patel,5,6703.76,33518.79
+ORD-1224,2024-05-22,Wireless Mouse,Electronics,East,Vikram Rao,12,1107.57,13290.87
+ORD-1225,2024-11-14,Keyboard Mech,Electronics,South,Neha Gupta,18,7116.91,128104.39
+ORD-1226,2024-12-21,Keyboard Mech,Electronics,Central,Amit Sharma,20,7057.81,141156.19
+ORD-1227,2024-06-07,Monitor 27in,Electronics,North,Priya Patel,9,29135.11,262216.02
+ORD-1228,2024-10-16,Notebook Pack,Stationery,East,Amit Sharma,6,483.29,2899.73
+ORD-1229,2024-09-28,Whiteboard,Office Supplies,North,Priya Patel,1,3214.23,3214.23
+ORD-1230,2024-07-08,Office Chair,Furniture,West,Neha Gupta,15,14522.69,217840.32
+ORD-1231,2024-01-27,Monitor 27in,Electronics,East,Vikram Rao,20,25675.76,513515.19
+ORD-1232,2024-05-19,Standing Desk,Furniture,South,Vikram Rao,2,22765.46,45530.92
+ORD-1233,2024-05-19,Webcam HD,Electronics,West,Neha Gupta,20,4447.84,88956.8
+ORD-1234,2024-05-25,Office Chair,Furniture,Central,Amit Sharma,12,14789.74,177476.89
+ORD-1235,2024-07-21,Keyboard Mech,Electronics,West,Vikram Rao,10,5909.04,59090.43
+ORD-1236,2024-04-18,Keyboard Mech,Electronics,North,Amit Sharma,7,6241.85,43692.92
+ORD-1237,2024-09-11,Standing Desk,Furniture,East,Rahul Singh,11,20327.93,223607.24
+ORD-1238,2024-04-27,Whiteboard,Office Supplies,South,Priya Patel,13,3522.81,45796.5
+ORD-1239,2024-01-22,Desk Lamp,Office Supplies,Central,Rahul Singh,3,1762.95,5288.84
+ORD-1240,2024-10-21,Whiteboard,Office Supplies,North,Neha Gupta,3,3753.48,11260.43
+ORD-1241,2024-07-26,Whiteboard,Office Supplies,Central,Neha Gupta,14,3352.66,46937.25
+ORD-1242,2024-12-19,Laptop Pro 15,Electronics,East,Priya Patel,20,84321.65,1686432.95
+ORD-1243,2024-10-28,Notebook Pack,Stationery,North,Neha Gupta,4,426.9,1707.59
+ORD-1244,2024-06-22,Whiteboard,Office Supplies,Central,Amit Sharma,13,3759.37,48871.77
+ORD-1245,2024-02-28,Office Chair,Furniture,East,Priya Patel,3,15031.45,45094.35
+ORD-1246,2024-11-26,Desk Lamp,Office Supplies,Central,Priya Patel,12,1746.4,20956.75
+ORD-1247,2024-03-29,Standing Desk,Furniture,South,Amit Sharma,5,20926.26,104631.3
+ORD-1248,2024-11-17,Keyboard Mech,Electronics,South,Amit Sharma,6,7086.68,42520.08
+ORD-1249,2024-10-16,Webcam HD,Electronics,West,Vikram Rao,19,4454.01,84626.28
+ORD-1250,2024-08-28,Keyboard Mech,Electronics,East,Rahul Singh,5,6421.69,32108.46
+ORD-1251,2024-09-16,Webcam HD,Electronics,East,Rahul Singh,19,4100.55,77910.54
+ORD-1252,2024-07-07,Wireless Mouse,Electronics,East,Neha Gupta,15,1089.03,16335.39
+ORD-1253,2024-07-15,Monitor 27in,Electronics,North,Amit Sharma,20,28526.85,570536.94
+ORD-1254,2024-10-19,Webcam HD,Electronics,Central,Vikram Rao,2,4454.76,8909.52
+ORD-1255,2024-02-01,Office Chair,Furniture,East,Vikram Rao,16,15004.1,240065.63
+ORD-1256,2024-03-29,Webcam HD,Electronics,North,Rahul Singh,3,4504.09,13512.28
+ORD-1257,2024-11-08,Laptop Pro 15,Electronics,South,Neha Gupta,15,85409.17,1281137.48
+ORD-1258,2024-06-22,Standing Desk,Furniture,East,Rahul Singh,10,21504.63,215046.33
+ORD-1259,2024-10-12,Keyboard Mech,Electronics,North,Rahul Singh,3,6278.6,18835.79
+ORD-1260,2024-06-19,Whiteboard,Office Supplies,East,Rahul Singh,20,3761.3,75225.92
+ORD-1261,2024-12-01,Wireless Mouse,Electronics,Central,Priya Patel,12,1154.46,13853.47
+ORD-1262,2024-07-11,Whiteboard,Office Supplies,South,Vikram Rao,3,3366.71,10100.12
+ORD-1263,2024-08-04,Notebook Pack,Stationery,South,Vikram Rao,3,463.14,1389.43
+ORD-1264,2024-04-19,Desk Lamp,Office Supplies,East,Amit Sharma,12,1731.19,20774.3
+ORD-1265,2024-03-20,Notebook Pack,Stationery,West,Priya Patel,8,495.0,3959.98
+ORD-1266,2024-09-26,Wireless Mouse,Electronics,East,Amit Sharma,17,1265.01,21505.17
+ORD-1267,2024-03-19,Laptop Pro 15,Electronics,East,Vikram Rao,5,86653.19,433265.95
+ORD-1268,2024-01-23,Standing Desk,Furniture,South,Vikram Rao,6,22973.21,137839.23
+ORD-1269,2024-08-17,Whiteboard,Office Supplies,East,Priya Patel,15,3577.42,53661.25
+ORD-1270,2024-08-28,Office Chair,Furniture,Central,Priya Patel,10,16396.79,163967.9
+ORD-1271,2024-05-24,Office Chair,Furniture,East,Vikram Rao,15,14885.04,223275.6
+ORD-1272,2024-04-12,Whiteboard,Office Supplies,Central,Vikram Rao,14,3826.39,53569.43
+ORD-1273,2024-07-09,Keyboard Mech,Electronics,South,Rahul Singh,2,6683.53,13367.07
+ORD-1274,2024-03-23,Desk Lamp,Office Supplies,North,Vikram Rao,4,1722.62,6890.49
+ORD-1275,2024-02-16,Monitor 27in,Electronics,West,Vikram Rao,5,29853.86,149269.31
+ORD-1276,2024-07-21,Office Chair,Furniture,West,Rahul Singh,1,14744.69,14744.69
+ORD-1277,2024-07-10,Desk Lamp,Office Supplies,East,Priya Patel,13,1978.03,25714.38
+ORD-1278,2024-11-28,Office Chair,Furniture,North,Rahul Singh,4,16017.53,64070.12
+ORD-1279,2024-08-29,Notebook Pack,Stationery,South,Priya Patel,2,430.82,861.64
+ORD-1280,2024-02-10,Standing Desk,Furniture,West,Neha Gupta,20,19823.11,396462.11
+ORD-1281,2024-11-07,Laptop Pro 15,Electronics,East,Priya Patel,5,85829.67,429148.36
+ORD-1282,2024-03-03,Desk Lamp,Office Supplies,West,Amit Sharma,10,1705.55,17055.5
+ORD-1283,2024-02-26,Laptop Pro 15,Electronics,South,Neha Gupta,20,84270.93,1685418.63
+ORD-1284,2024-10-21,Webcam HD,Electronics,Central,Vikram Rao,1,4618.76,4618.76
+ORD-1285,2024-06-29,Office Chair,Furniture,South,Rahul Singh,14,13504.69,189065.7
+ORD-1286,2024-02-13,Office Chair,Furniture,Central,Neha Gupta,6,15493.11,92958.68
+ORD-1287,2024-09-16,Desk Lamp,Office Supplies,East,Amit Sharma,17,1815.87,30869.78
+ORD-1288,2024-07-17,Desk Lamp,Office Supplies,North,Neha Gupta,16,1635.67,26170.76
+ORD-1289,2024-06-25,Notebook Pack,Stationery,East,Amit Sharma,12,475.97,5711.6
+ORD-1290,2024-06-29,Office Chair,Furniture,North,Vikram Rao,11,13900.23,152902.52
+ORD-1291,2024-09-02,Desk Lamp,Office Supplies,East,Priya Patel,15,1973.09,29596.42
+ORD-1292,2024-04-13,Standing Desk,Furniture,South,Amit Sharma,15,19962.73,299440.93
+ORD-1293,2024-09-20,Laptop Pro 15,Electronics,South,Amit Sharma,11,92367.31,1016040.37
+ORD-1294,2024-11-27,Whiteboard,Office Supplies,Central,Neha Gupta,9,3175.63,28580.71
+ORD-1295,2024-06-18,Office Chair,Furniture,East,Rahul Singh,2,16097.39,32194.79
+ORD-1296,2024-08-13,Monitor 27in,Electronics,North,Rahul Singh,14,30181.12,422535.74
+ORD-1297,2024-07-07,Whiteboard,Office Supplies,East,Priya Patel,16,3634.45,58151.17
+ORD-1298,2024-11-04,Desk Lamp,Office Supplies,East,Amit Sharma,14,1648.41,23077.79
+ORD-1299,2024-06-16,Standing Desk,Furniture,Central,Rahul Singh,11,20251.43,222765.74
+ORD-1300,2024-03-26,Monitor 27in,Electronics,East,Neha Gupta,20,29218.91,584378.25
+ORD-1301,2024-06-29,Webcam HD,Electronics,East,Neha Gupta,2,4704.13,9408.27
+ORD-1302,2024-11-22,Keyboard Mech,Electronics,West,Rahul Singh,2,5947.55,11895.11
+ORD-1303,2024-03-14,Whiteboard,Office Supplies,East,Vikram Rao,6,3816.95,22901.72
+ORD-1304,2024-11-26,Keyboard Mech,Electronics,West,Amit Sharma,5,5937.4,29687.02
+ORD-1305,2024-03-19,Notebook Pack,Stationery,East,Neha Gupta,19,407.91,7750.38
+ORD-1306,2024-10-20,Webcam HD,Electronics,East,Rahul Singh,15,4736.78,71051.64
+ORD-1307,2024-05-22,Standing Desk,Furniture,Central,Rahul Singh,13,21183.3,275382.85
+ORD-1308,2024-07-17,Office Chair,Furniture,North,Amit Sharma,6,14997.13,89982.79
+ORD-1309,2024-04-19,Desk Lamp,Office Supplies,North,Rahul Singh,9,1873.45,16861.08
+ORD-1310,2024-02-07,Keyboard Mech,Electronics,East,Neha Gupta,7,6009.43,42066.0
+ORD-1311,2024-06-12,Webcam HD,Electronics,South,Neha Gupta,3,4779.46,14338.39
+ORD-1312,2024-06-02,Notebook Pack,Stationery,North,Vikram Rao,18,431.13,7760.39
+ORD-1313,2024-04-12,Standing Desk,Furniture,South,Rahul Singh,17,20786.66,353373.27
+ORD-1314,2024-10-20,Standing Desk,Furniture,South,Neha Gupta,1,21387.94,21387.94
+ORD-1315,2024-02-14,Notebook Pack,Stationery,West,Vikram Rao,5,460.08,2300.38
+ORD-1316,2024-07-28,Wireless Mouse,Electronics,East,Neha Gupta,16,1206.17,19298.67
+ORD-1317,2024-08-18,Keyboard Mech,Electronics,North,Priya Patel,11,6685.04,73535.44
+ORD-1318,2024-10-09,Webcam HD,Electronics,Central,Rahul Singh,5,4840.16,24200.82
+ORD-1319,2024-01-29,Keyboard Mech,Electronics,South,Priya Patel,14,6503.72,91052.12
+ORD-1320,2024-06-14,Wireless Mouse,Electronics,Central,Priya Patel,10,1119.52,11195.18
+ORD-1321,2024-05-08,Office Chair,Furniture,East,Vikram Rao,10,16037.8,160378.01
+ORD-1322,2024-11-10,Office Chair,Furniture,Central,Rahul Singh,5,15375.07,76875.34
+ORD-1323,2024-10-24,Desk Lamp,Office Supplies,North,Vikram Rao,6,1833.05,10998.31
+ORD-1324,2024-10-15,Standing Desk,Furniture,South,Vikram Rao,20,21285.53,425710.52
+ORD-1325,2024-10-22,Laptop Pro 15,Electronics,North,Amit Sharma,2,92625.3,185250.59
+ORD-1326,2024-01-16,Monitor 27in,Electronics,South,Vikram Rao,14,28661.41,401259.7
+ORD-1327,2024-12-16,Webcam HD,Electronics,Central,Rahul Singh,10,4484.65,44846.5
+ORD-1328,2024-03-21,Whiteboard,Office Supplies,East,Neha Gupta,3,3632.03,10896.09
+ORD-1329,2024-11-06,Webcam HD,Electronics,West,Neha Gupta,15,4233.62,63504.31
+ORD-1330,2024-03-07,Standing Desk,Furniture,East,Rahul Singh,12,24091.65,289099.75
+ORD-1331,2024-08-26,Notebook Pack,Stationery,Central,Vikram Rao,4,433.72,1734.88
+ORD-1332,2024-01-26,Wireless Mouse,Electronics,East,Neha Gupta,8,1113.81,8910.49
+ORD-1333,2024-03-22,Monitor 27in,Electronics,West,Vikram Rao,14,26590.31,372264.39
+ORD-1334,2024-09-12,Notebook Pack,Stationery,Central,Rahul Singh,7,473.68,3315.77
+ORD-1335,2024-02-16,Desk Lamp,Office Supplies,West,Neha Gupta,10,1799.05,17990.53
+ORD-1336,2024-06-29,Whiteboard,Office Supplies,Central,Neha Gupta,8,3300.6,26404.81
+ORD-1337,2024-11-30,Laptop Pro 15,Electronics,North,Rahul Singh,16,86657.82,1386525.11
+ORD-1338,2024-08-08,Webcam HD,Electronics,East,Vikram Rao,1,4812.46,4812.46
+ORD-1339,2024-07-24,Standing Desk,Furniture,East,Rahul Singh,13,21410.12,278331.62
+ORD-1340,2024-05-27,Laptop Pro 15,Electronics,Central,Vikram Rao,7,82662.9,578640.33
+ORD-1341,2024-05-23,Wireless Mouse,Electronics,West,Vikram Rao,15,1263.46,18951.85
+ORD-1342,2024-07-20,Keyboard Mech,Electronics,Central,Amit Sharma,5,7117.61,35588.04
+ORD-1343,2024-04-11,Notebook Pack,Stationery,East,Vikram Rao,12,472.95,5675.36
+ORD-1344,2024-01-20,Keyboard Mech,Electronics,Central,Neha Gupta,17,5902.33,100339.63
+ORD-1345,2024-11-06,Standing Desk,Furniture,East,Neha Gupta,17,21810.75,370782.74
+ORD-1346,2024-07-20,Desk Lamp,Office Supplies,South,Rahul Singh,20,1734.67,34693.42
+ORD-1347,2024-09-17,Keyboard Mech,Electronics,East,Vikram Rao,11,6509.51,71604.6
+ORD-1348,2024-01-09,Desk Lamp,Office Supplies,West,Vikram Rao,10,1790.96,17909.61
+ORD-1349,2024-12-18,Notebook Pack,Stationery,East,Amit Sharma,14,457.53,6405.46
+ORD-1350,2024-10-23,Laptop Pro 15,Electronics,Central,Neha Gupta,9,92940.2,836461.82
+ORD-1351,2024-09-25,Keyboard Mech,Electronics,South,Amit Sharma,19,6474.58,123017.08
+ORD-1352,2024-12-24,Keyboard Mech,Electronics,West,Priya Patel,8,5891.04,47128.33
+ORD-1353,2024-03-18,Wireless Mouse,Electronics,South,Amit Sharma,15,1155.29,17329.29
+ORD-1354,2024-08-29,Whiteboard,Office Supplies,South,Neha Gupta,17,3692.48,62772.17
+ORD-1355,2024-12-05,Laptop Pro 15,Electronics,South,Vikram Rao,7,86035.08,602245.53
+ORD-1356,2024-08-23,Webcam HD,Electronics,Central,Neha Gupta,11,4911.02,54021.19
+ORD-1357,2024-12-14,Desk Lamp,Office Supplies,East,Vikram Rao,12,1863.31,22359.75
+ORD-1358,2024-05-22,Monitor 27in,Electronics,Central,Neha Gupta,7,30561.09,213927.63
+ORD-1359,2024-12-26,Desk Lamp,Office Supplies,East,Priya Patel,10,1897.62,18976.23
+ORD-1360,2024-05-20,Office Chair,Furniture,West,Rahul Singh,16,14546.41,232742.55
+ORD-1361,2024-07-21,Monitor 27in,Electronics,North,Vikram Rao,18,27326.29,491873.17
+ORD-1362,2024-02-10,Notebook Pack,Stationery,South,Rahul Singh,2,430.89,861.77
+ORD-1363,2024-10-02,Notebook Pack,Stationery,West,Rahul Singh,16,424.26,6788.14
+ORD-1364,2024-10-27,Monitor 27in,Electronics,Central,Rahul Singh,5,25811.67,129058.34
+ORD-1365,2024-04-29,Office Chair,Furniture,South,Amit Sharma,17,14177.01,241009.25
+ORD-1366,2024-02-21,Laptop Pro 15,Electronics,North,Neha Gupta,11,88695.09,975645.96
+ORD-1367,2024-08-31,Standing Desk,Furniture,North,Vikram Rao,6,21590.39,129542.36
+ORD-1368,2024-01-31,Webcam HD,Electronics,South,Rahul Singh,11,4306.87,47375.61
+ORD-1369,2024-01-20,Wireless Mouse,Electronics,Central,Priya Patel,18,1257.28,22631.13
+ORD-1370,2024-07-22,Standing Desk,Furniture,West,Priya Patel,2,24187.56,48375.11
+ORD-1371,2024-10-17,Webcam HD,Electronics,South,Rahul Singh,2,4058.34,8116.68
+ORD-1372,2024-11-24,Keyboard Mech,Electronics,North,Rahul Singh,10,6440.65,64406.54
+ORD-1373,2024-08-27,Desk Lamp,Office Supplies,Central,Neha Gupta,5,1926.38,9631.91
+ORD-1374,2024-08-22,Monitor 27in,Electronics,South,Amit Sharma,11,26109.97,287209.65
+ORD-1375,2024-10-17,Monitor 27in,Electronics,South,Amit Sharma,11,29628.3,325911.29
+ORD-1376,2024-09-20,Office Chair,Furniture,South,Vikram Rao,13,15980.97,207752.6
+ORD-1377,2024-03-12,Notebook Pack,Stationery,North,Neha Gupta,4,421.63,1686.52
+ORD-1378,2024-04-30,Webcam HD,Electronics,East,Priya Patel,1,4284.71,4284.71
+ORD-1379,2024-10-20,Webcam HD,Electronics,East,Rahul Singh,10,4574.21,45742.15
+ORD-1380,2024-03-01,Laptop Pro 15,Electronics,East,Rahul Singh,8,77556.11,620448.91
+ORD-1381,2024-12-26,Webcam HD,Electronics,East,Priya Patel,13,4667.47,60677.06
+ORD-1382,2024-04-22,Monitor 27in,Electronics,North,Rahul Singh,12,28641.9,343702.83
+ORD-1383,2024-11-06,Standing Desk,Furniture,West,Priya Patel,15,23090.03,346350.5
+ORD-1384,2024-12-06,Notebook Pack,Stationery,West,Vikram Rao,16,473.16,7570.58
+ORD-1385,2024-09-27,Office Chair,Furniture,South,Vikram Rao,3,15076.52,45229.56
+ORD-1386,2024-10-07,Notebook Pack,Stationery,North,Vikram Rao,4,410.56,1642.23
+ORD-1387,2024-06-16,Desk Lamp,Office Supplies,South,Vikram Rao,18,1673.95,30131.04
+ORD-1388,2024-09-07,Desk Lamp,Office Supplies,West,Amit Sharma,7,1878.09,13146.63
+ORD-1389,2024-09-19,Wireless Mouse,Electronics,Central,Neha Gupta,2,1188.82,2377.65
+ORD-1390,2024-12-10,Whiteboard,Office Supplies,West,Vikram Rao,2,3541.16,7082.32
+ORD-1391,2024-04-21,Monitor 27in,Electronics,North,Neha Gupta,9,29772.14,267949.24
+ORD-1392,2024-02-02,Keyboard Mech,Electronics,North,Amit Sharma,14,6297.89,88170.43
+ORD-1393,2024-07-28,Desk Lamp,Office Supplies,North,Amit Sharma,16,1631.42,26102.79
+ORD-1394,2024-07-14,Standing Desk,Furniture,South,Neha Gupta,12,24168.57,290022.83
+ORD-1395,2024-12-04,Webcam HD,Electronics,West,Neha Gupta,3,4664.46,13993.37
+ORD-1396,2024-10-02,Desk Lamp,Office Supplies,South,Rahul Singh,4,1684.25,6737.0
+ORD-1397,2024-01-12,Whiteboard,Office Supplies,Central,Priya Patel,8,3734.38,29875.0
+ORD-1398,2024-04-27,Monitor 27in,Electronics,West,Vikram Rao,14,28178.83,394503.59
+ORD-1399,2024-02-27,Office Chair,Furniture,West,Rahul Singh,5,14326.95,71634.75
+ORD-1400,2024-02-04,Laptop Pro 15,Electronics,West,Vikram Rao,1,80591.33,80591.33
+ORD-1401,2024-12-26,Wireless Mouse,Electronics,Central,Amit Sharma,15,1223.47,18352.03
+ORD-1402,2024-10-03,Laptop Pro 15,Electronics,South,Amit Sharma,13,83962.37,1091510.78
+ORD-1403,2024-04-29,Office Chair,Furniture,North,Priya Patel,17,16480.45,280167.66
+ORD-1404,2024-06-13,Keyboard Mech,Electronics,East,Vikram Rao,20,6854.3,137085.99
+ORD-1405,2024-06-02,Office Chair,Furniture,East,Priya Patel,17,14163.13,240773.18
+ORD-1406,2024-03-30,Monitor 27in,Electronics,North,Vikram Rao,19,30126.4,572401.56
+ORD-1407,2024-11-25,Whiteboard,Office Supplies,Central,Neha Gupta,2,3830.6,7661.21
+ORD-1408,2024-06-02,Whiteboard,Office Supplies,Central,Rahul Singh,14,3435.78,48100.94
+ORD-1409,2024-04-25,Whiteboard,Office Supplies,South,Vikram Rao,16,3318.68,53098.84
+ORD-1410,2024-08-01,Monitor 27in,Electronics,South,Neha Gupta,2,28349.36,56698.72
+ORD-1411,2024-04-14,Desk Lamp,Office Supplies,Central,Priya Patel,13,1707.43,22196.58
+ORD-1412,2024-04-07,Notebook Pack,Stationery,North,Neha Gupta,12,413.32,4959.86
+ORD-1413,2024-02-07,Laptop Pro 15,Electronics,East,Neha Gupta,20,86749.67,1734993.5
+ORD-1414,2024-06-19,Office Chair,Furniture,Central,Vikram Rao,7,14938.18,104567.28
+ORD-1415,2024-03-01,Monitor 27in,Electronics,North,Priya Patel,7,30587.63,214113.44
+ORD-1416,2024-05-02,Webcam HD,Electronics,South,Vikram Rao,7,4406.97,30848.78
+ORD-1417,2024-11-28,Desk Lamp,Office Supplies,East,Rahul Singh,13,1787.85,23242.05
+ORD-1418,2024-09-11,Notebook Pack,Stationery,East,Rahul Singh,12,451.15,5413.84
+ORD-1419,2024-07-08,Webcam HD,Electronics,North,Neha Gupta,11,4872.9,53601.87
+ORD-1420,2024-03-15,Notebook Pack,Stationery,West,Amit Sharma,19,482.77,9172.59
+ORD-1421,2024-08-01,Laptop Pro 15,Electronics,East,Vikram Rao,19,86345.43,1640563.17
+ORD-1422,2024-10-18,Monitor 27in,Electronics,South,Priya Patel,11,26488.1,291369.15
+ORD-1423,2024-09-07,Office Chair,Furniture,West,Vikram Rao,11,14271.98,156991.78
+ORD-1424,2024-10-06,Webcam HD,Electronics,West,Priya Patel,12,4202.34,50428.07
+ORD-1425,2024-02-08,Webcam HD,Electronics,South,Vikram Rao,2,4521.55,9043.1
+ORD-1426,2024-04-28,Laptop Pro 15,Electronics,North,Neha Gupta,5,90823.26,454116.3
+ORD-1427,2024-07-10,Wireless Mouse,Electronics,South,Amit Sharma,7,1201.38,8409.63
+ORD-1428,2024-01-09,Laptop Pro 15,Electronics,Central,Vikram Rao,16,87707.83,1403325.34
+ORD-1429,2024-09-28,Laptop Pro 15,Electronics,Central,Vikram Rao,14,76701.47,1073820.53
+ORD-1430,2024-12-23,Monitor 27in,Electronics,Central,Rahul Singh,1,28012.41,28012.41
+ORD-1431,2024-05-03,Whiteboard,Office Supplies,South,Amit Sharma,4,3517.07,14068.28
+ORD-1432,2024-05-16,Office Chair,Furniture,Central,Vikram Rao,9,15945.64,143510.79
+ORD-1433,2024-05-04,Whiteboard,Office Supplies,North,Rahul Singh,13,3471.3,45126.88
+ORD-1434,2024-07-13,Office Chair,Furniture,East,Amit Sharma,2,13780.5,27561.0
+ORD-1435,2024-12-25,Whiteboard,Office Supplies,Central,Neha Gupta,2,3595.72,7191.45
+ORD-1436,2024-06-18,Standing Desk,Furniture,North,Neha Gupta,14,22637.59,316926.29
+ORD-1437,2024-12-20,Keyboard Mech,Electronics,North,Vikram Rao,2,6148.7,12297.39
+ORD-1438,2024-12-16,Keyboard Mech,Electronics,West,Rahul Singh,2,7051.41,14102.81
+ORD-1439,2024-06-10,Monitor 27in,Electronics,Central,Vikram Rao,2,26204.39,52408.77
+ORD-1440,2024-12-30,Laptop Pro 15,Electronics,South,Vikram Rao,5,89288.33,446441.63
+ORD-1441,2024-10-17,Whiteboard,Office Supplies,North,Rahul Singh,6,3544.77,21268.62
+ORD-1442,2024-03-12,Whiteboard,Office Supplies,Central,Rahul Singh,13,3678.93,47826.04
+ORD-1443,2024-04-28,Wireless Mouse,Electronics,Central,Rahul Singh,2,1103.44,2206.89
+ORD-1444,2024-07-22,Wireless Mouse,Electronics,East,Vikram Rao,20,1309.17,26183.32
+ORD-1445,2024-07-01,Notebook Pack,Stationery,North,Rahul Singh,15,449.15,6737.31
+ORD-1446,2024-12-04,Desk Lamp,Office Supplies,West,Neha Gupta,6,1864.69,11188.14
+ORD-1447,2024-02-07,Whiteboard,Office Supplies,North,Vikram Rao,10,3708.64,37086.39
+ORD-1448,2024-11-20,Wireless Mouse,Electronics,East,Priya Patel,13,1250.8,16260.43
+ORD-1449,2024-01-03,Standing Desk,Furniture,West,Rahul Singh,12,20268.82,243225.89
+ORD-1450,2024-02-14,Monitor 27in,Electronics,West,Rahul Singh,9,25772.5,231952.46
+ORD-1451,2024-07-27,Standing Desk,Furniture,West,Neha Gupta,18,22240.86,400335.41
+ORD-1452,2024-11-01,Wireless Mouse,Electronics,North,Amit Sharma,12,1213.01,14556.15
+ORD-1453,2024-07-17,Keyboard Mech,Electronics,East,Neha Gupta,1,6229.4,6229.4
+ORD-1454,2024-12-16,Wireless Mouse,Electronics,Central,Priya Patel,19,1205.07,22896.24
+ORD-1455,2024-09-09,Whiteboard,Office Supplies,South,Priya Patel,9,3360.79,30247.13
+ORD-1456,2024-06-02,Standing Desk,Furniture,North,Priya Patel,14,21014.23,294199.25
+ORD-1457,2024-11-16,Webcam HD,Electronics,North,Rahul Singh,9,4899.8,44098.2
+ORD-1458,2024-03-10,Webcam HD,Electronics,Central,Vikram Rao,7,4462.08,31234.53
+ORD-1459,2024-07-13,Monitor 27in,Electronics,North,Neha Gupta,11,29913.03,329043.38
+ORD-1460,2024-11-29,Notebook Pack,Stationery,West,Rahul Singh,14,478.39,6697.5
+ORD-1461,2024-12-21,Keyboard Mech,Electronics,South,Rahul Singh,11,6634.17,72975.92
+ORD-1462,2024-06-12,Office Chair,Furniture,West,Rahul Singh,6,16393.72,98362.34
+ORD-1463,2024-05-23,Monitor 27in,Electronics,West,Vikram Rao,8,27024.96,216199.7
+ORD-1464,2024-10-06,Whiteboard,Office Supplies,East,Amit Sharma,19,3289.86,62507.34
+ORD-1465,2024-04-17,Standing Desk,Furniture,Central,Amit Sharma,15,23949.09,359236.34
+ORD-1466,2024-03-12,Webcam HD,Electronics,East,Amit Sharma,14,4655.68,65179.52
+ORD-1467,2024-07-12,Monitor 27in,Electronics,South,Rahul Singh,5,29205.32,146026.62
+ORD-1468,2024-09-30,Wireless Mouse,Electronics,West,Vikram Rao,16,1219.74,19515.82
+ORD-1469,2024-07-03,Desk Lamp,Office Supplies,West,Vikram Rao,2,1904.66,3809.32
+ORD-1470,2024-12-02,Desk Lamp,Office Supplies,Central,Amit Sharma,4,1896.82,7587.29
+ORD-1471,2024-11-26,Notebook Pack,Stationery,South,Vikram Rao,2,455.69,911.38
+ORD-1472,2024-05-12,Whiteboard,Office Supplies,East,Neha Gupta,4,3157.38,12629.53
+ORD-1473,2024-10-21,Office Chair,Furniture,Central,Vikram Rao,18,15241.55,274347.99
+ORD-1474,2024-12-13,Office Chair,Furniture,West,Rahul Singh,13,14889.19,193559.47
+ORD-1475,2024-09-04,Keyboard Mech,Electronics,Central,Priya Patel,12,7147.01,85764.16
+ORD-1476,2024-03-13,Wireless Mouse,Electronics,East,Neha Gupta,3,1107.86,3323.57
+ORD-1477,2024-09-23,Notebook Pack,Stationery,East,Rahul Singh,15,475.58,7133.76
+ORD-1478,2024-12-22,Webcam HD,Electronics,East,Neha Gupta,4,4444.35,17777.4
+ORD-1479,2024-12-29,Webcam HD,Electronics,East,Amit Sharma,10,4090.21,40902.15
+ORD-1480,2024-03-25,Wireless Mouse,Electronics,North,Rahul Singh,4,1242.51,4970.05
+ORD-1481,2024-10-13,Office Chair,Furniture,Central,Priya Patel,18,13980.41,251647.33
+ORD-1482,2024-04-05,Whiteboard,Office Supplies,West,Priya Patel,13,3590.83,46680.82
+ORD-1483,2024-08-18,Whiteboard,Office Supplies,West,Amit Sharma,20,3768.17,75363.36
+ORD-1484,2024-04-15,Keyboard Mech,Electronics,West,Neha Gupta,1,6766.16,6766.16
+ORD-1485,2024-10-01,Monitor 27in,Electronics,North,Vikram Rao,4,29677.21,118708.85
+ORD-1486,2024-05-14,Standing Desk,Furniture,East,Rahul Singh,7,21813.22,152692.55
+ORD-1487,2024-07-19,Webcam HD,Electronics,Central,Rahul Singh,20,4399.78,87995.51
+ORD-1488,2024-11-12,Keyboard Mech,Electronics,North,Rahul Singh,12,6949.17,83390.08
+ORD-1489,2024-03-09,Standing Desk,Furniture,East,Vikram Rao,19,20172.91,383285.26
+ORD-1490,2024-07-10,Notebook Pack,Stationery,North,Priya Patel,10,415.53,4155.25
+ORD-1491,2024-10-21,Standing Desk,Furniture,Central,Neha Gupta,14,22424.27,313939.83
+ORD-1492,2024-12-21,Whiteboard,Office Supplies,West,Priya Patel,16,3594.85,57517.62
+ORD-1493,2024-04-05,Standing Desk,Furniture,Central,Priya Patel,16,21070.87,337133.97
+ORD-1494,2024-01-05,Notebook Pack,Stationery,West,Vikram Rao,2,482.9,965.79
+ORD-1495,2024-09-15,Webcam HD,Electronics,South,Priya Patel,13,4917.45,63926.8
+ORD-1496,2024-08-15,Webcam HD,Electronics,West,Neha Gupta,14,4689.13,65647.79
+ORD-1497,2024-04-22,Webcam HD,Electronics,South,Amit Sharma,19,4077.77,77477.72
+ORD-1498,2024-03-27,Monitor 27in,Electronics,North,Rahul Singh,8,28210.61,225684.87
+ORD-1499,2024-10-20,Webcam HD,Electronics,Central,Neha Gupta,18,4509.73,81175.06
