@@ -4,7 +4,14 @@ from dotenv import load_dotenv
 from src.database import get_schema, run_query
 
 load_dotenv()
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+
+try:
+    import streamlit as st
+    api_key = st.secrets.get("GROQ_API_KEY") or os.getenv("GROQ_API_KEY")
+except Exception:
+    api_key = os.getenv("GROQ_API_KEY")
+
+client = Groq(api_key=api_key)
 
 def generate_sql(user_question):
     schema = get_schema()
