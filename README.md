@@ -21,7 +21,7 @@ and the app generates the SQL, runs it, and returns a chart automatically.
 ---
 
 ## 📁 Project Structure
-
+```
 business-insights-chatbot/
 ├── data/            # Sales dataset (CSV)
 ├── src/
@@ -29,7 +29,7 @@ business-insights-chatbot/
 │   ├── llm.py       # LLM integration
 │   └── app.py       # Streamlit UI
 └── requirements.txt
-
+```
 ---
 
 ## 🌐 Live Demo
