@@ -27,3 +27,8 @@ business-insights-chatbot/
 │   ├── llm.py       # LLM integration
 │   └── app.py       # Streamlit UI
 └── requirements.txt
+
+---
+
+## 🌐 Live Demo
+👉 [Try the app live](https://business-insights-chatbot-kajalsrivastava.streamlit.app)
